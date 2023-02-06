@@ -1,0 +1,146 @@
+{
+    "vf": {
+        "20221018": [
+            {
+                "time": "2022-10-18 16:09:31",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "fab_person.pt",
+                "classes": "person",
+                "img": "20221018_160931.jpg"
+            },
+            {
+                "time": "2022-10-18 16:10:04",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "yolov5s.pt",
+                "classes": "person",
+                "img": "20221018_161004.jpg"
+            },
+            {
+                "time": "2022-10-18 16:10:35",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "yolov5s.pt",
+                "classes": "person",
+                "img": "20221018_161035.jpg"
+            },
+            {
+                "time": "2022-10-18 16:11:06",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "yolov5s.pt",
+                "classes": "person",
+                "img": "20221018_161105.jpg"
+            },
+            {
+                "time": "2022-10-18 16:11:36",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "yolov5s.pt",
+                "classes": "person",
+                "img": "20221018_161136.jpg"
+            }
+        ]
+    },
+    "obj": {
+        "20220928": [
+            {
+                "time": "2022-09-28 16:26:06",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "fab_person.pt",
+                "classes": "person",
+                "img": "20220928_162605.jpg"
+            }
+        ],
+        "20220930": [
+            {
+                "time": "2022-09-30 09:22:11",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "fab_person.pt",
+                "classes": "person",
+                "img": "20220930_092211.jpg"
+            },
+            {
+                "time": "2022-09-30 09:22:41",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "fab_person.pt",
+                "classes": "person",
+                "img": "20220930_092241.jpg"
+            }
+        ],
+        "20221006": [
+            {
+                "time": "2022-10-06 11:23:30",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "fab_person.pt",
+                "classes": "person",
+                "img": "20221006_112330.jpg"
+            },
+            {
+                "time": "2022-10-06 11:24:00",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "fab_person.pt",
+                "classes": "person",
+                "img": "20221006_112400.jpg"
+            },
+            {
+                "time": "2022-10-06 11:25:20",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "fab_person.pt",
+                "classes": "person",
+                "img": "20221006_112520.jpg"
+            },
+            {
+                "time": "2022-10-06 11:25:58",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "fab_person.pt",
+                "classes": "person",
+                "img": "20221006_112558.jpg"
+            },
+            {
+                "time": "2022-10-06 11:27:03",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "fab_person.pt",
+                "classes": "person",
+                "img": "20221006_112703.jpg"
+            },
+            {
+                "time": "2022-10-06 11:30:49",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "fab_person.pt",
+                "classes": "person",
+                "img": "20221006_113049.jpg"
+            }
+        ],
+        "20221007": [
+            {
+                "time": "2022-10-07 16:14:33",
+                "channel": "",
+                "cam_id": 2,
+                "weight": "fab_person.pt",
+                "classes": "person",
+                "img": "20221007_161433.jpg"
+            }
+        ],
+        "20221014": [
+            {
+                "time": "2022-10-14 08:34:40",
+                "channel": "",
+                "cam_id": 1,
+                "weight": "fab_person.pt",
+                "classes": "person",
+                "img": "20221014_083440.jpg"
+            }
+        ]
+    }
+}

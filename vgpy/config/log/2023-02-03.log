@@ -1,0 +1,32 @@
+2023-02-03 13:16:35.452 [main.py] INFO    | 進入VG主頁
+2023-02-03 13:16:50.712 [vf_api.py] INFO    | 測距/物件: subprocess啟動
+2023-02-03 13:16:59.305 [vf_api.py] INFO    | 測距/物件:進入測距監控系統
+2023-02-03 13:17:28.897 [vf_backend.py] INFO    | 測距/物件:收到[CHANGE_DETECT_MODE]的signal
+2023-02-03 13:34:21.449 [main.py] INFO    | 進入VG主頁
+2023-02-03 13:34:27.090 [vf_api.py] INFO    | 測距/物件: subprocess啟動
+2023-02-03 13:36:32.553 [main.py] INFO    | 進入VG主頁
+2023-02-03 13:36:34.357 [vf_api.py] INFO    | 測距/物件: subprocess啟動
+2023-02-03 13:36:42.710 [vf_api.py] INFO    | 測距/物件:進入測距監控系統
+2023-02-03 13:37:04.838 [vf_backend.py] INFO    | 測距/物件:收到[CHANGE_DETECT_MODE]的signal
+2023-02-03 13:45:02.007 [main.py] INFO    | 進入VG主頁
+2023-02-03 13:45:09.154 [vf_api.py] INFO    | 測距/物件:進入物件監控系統
+2023-02-03 13:46:06.052 [vf_api.py] INFO    | 測距/物件:進入物件監控系統
+2023-02-03 13:46:37.943 [main.py] INFO    | 進入VG主頁
+2023-02-03 13:46:40.873 [vf_api.py] INFO    | 測距/物件:進入測距監控系統
+2023-02-03 13:47:51.624 [main.py] INFO    | 有正在執行的子系統，嘗試關閉中...
+2023-02-03 13:47:51.627 [main.py] ERROR   | main:terminate current subprocess failed, 'NoneType' object has no attribute 'terminate'
+2023-02-03 13:47:51.646 [main.py] INFO    | 進入VG主頁
+2023-02-03 13:47:52.276 [main.py] INFO    | 進入VG主頁
+2023-02-03 13:47:53.191 [vf_api.py] INFO    | 測距/物件: subprocess啟動
+2023-02-03 13:48:01.491 [vf_api.py] INFO    | 測距/物件:進入物件監控系統
+2023-02-03 13:48:16.924 [vf_backend.py] INFO    | 測距/物件:收到[CHANGE_DETECT_MODE]的signal
+2023-02-03 13:48:17.857 [main.py] ERROR   | main:cannot get result_queue, name 'ProcessVar' is not defined
+2023-02-03 13:50:45.321 [main.py] INFO    | 有正在執行的子系統，嘗試關閉中...
+2023-02-03 13:50:45.332 [main.py] INFO    | 關閉成功
+2023-02-03 13:50:45.361 [main.py] INFO    | 進入VG主頁
+2023-02-03 13:50:49.469 [vf_api.py] INFO    | 測距/物件:進入測距監控系統
+2023-02-03 13:52:22.330 [main.py] INFO    | 有正在執行的子系統，嘗試關閉中...
+2023-02-03 13:52:22.331 [main.py] ERROR   | main:terminate current subprocess failed, 'NoneType' object has no attribute 'terminate'
+2023-02-03 13:52:22.362 [main.py] INFO    | 進入VG主頁
+2023-02-03 13:52:23.047 [main.py] INFO    | 進入VG主頁
+2023-02-03 14:11:42.755 [main.py] INFO    | 進入VG主頁

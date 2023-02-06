@@ -1,0 +1,6 @@
+train: D:\Jack\Dataset\coco_person+fab_person\images\train
+val: D:\Jack\Dataset\coco_person+fab_person\images\val
+
+nc: 2
+
+names: ['person', 'fab_person']

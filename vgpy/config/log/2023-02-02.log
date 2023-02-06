@@ -1,0 +1,18 @@
+2023-02-02 09:10:57.111 [wearing_detector_torch.py] INFO    | 穿戴:config初始載入中...
+2023-02-02 09:11:26.188 [wearing_detector_torch.py] INFO    | 穿戴:MergePredictor初始化辨識完成
+2023-02-02 09:11:26.209 [wearing_detector_torch.py] INFO    | 穿戴:MergePredictor初始化成功
+2023-02-02 09:11:26.209 [wearing_detector_torch.py] INFO    | 穿戴:config初始載入成功
+2023-02-02 09:11:40.132 [wearing_api.py] INFO    | 穿戴: yolo_detector初始化完成
+2023-02-02 14:16:04.777 [main.py] INFO    | 進入VG主頁
+2023-02-02 14:16:11.669 [main.py] INFO    | 進入VG主頁
+2023-02-02 14:16:13.083 [vf_api.py] INFO    | 測距/物件: subprocess啟動
+2023-02-02 14:16:21.402 [vf_api.py] INFO    | 測距/物件:進入測距監控系統
+2023-02-02 14:17:10.072 [vf_backend.py] INFO    | 測距/物件:收到[CHANGE_DETECT_MODE]的signal
+2023-02-02 16:04:27.440 [main.py] INFO    | 進入VG主頁
+2023-02-02 16:04:30.678 [vf_api.py] INFO    | 測距/物件: subprocess啟動
+2023-02-02 16:04:39.007 [vf_api.py] INFO    | 測距/物件:進入測距監控系統
+2023-02-02 16:05:04.852 [vf_backend.py] INFO    | 測距/物件:收到[CHANGE_DETECT_MODE]的signal
+2023-02-02 16:07:32.640 [main.py] INFO    | 有正在執行的子系統，嘗試關閉中...
+2023-02-02 16:07:32.642 [main.py] INFO    | 關閉成功
+2023-02-02 16:07:32.670 [main.py] INFO    | 進入VG主頁
+2023-02-02 16:07:33.500 [main.py] INFO    | 進入VG主頁

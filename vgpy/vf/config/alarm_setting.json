@@ -1,0 +1,37 @@
+{
+    "vf": {
+        "channel": {
+            "channel": [],
+            "mail_group": ""
+        },
+        "level": {
+            "lv1": 10,
+            "lv2": 20,
+            "lv3": 30
+        },
+        "log": {
+            "save_day": 1
+        },
+        "alarm_threhold": {
+            "obj_max_count": null,
+            "total_frame": null,
+            "ng_frame": null
+        },
+        "mail_group": ""
+    },
+    "obj": {
+        "channel": {
+            "channel": [],
+            "mail_group": ""
+        },
+        "alarm_threhold": {
+            "obj_max_count": 1,
+            "total_frame": 1,
+            "ng_frame": 1
+        },
+        "log": {
+            "save_day": 30
+        },
+        "mail_group": ""
+    }
+}
